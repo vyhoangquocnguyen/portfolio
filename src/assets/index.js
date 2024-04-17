@@ -29,6 +29,7 @@ import tesla from './company/tesla.png';
 import dalle2 from './dalle2.png';
 import metaversus from './metaversus.png';
 import ecommerce from './ecommerce.png';
+import yoom from './yoom.png';
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   dalle2,
   metaversus,
   ecommerce,
+  yoom,
 };

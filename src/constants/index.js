@@ -23,6 +23,7 @@ import {
   metaversus,
   ecommerce,
   threejs,
+  yoom,
 } from '../assets';
 
 export const navLinks = [
@@ -248,6 +249,27 @@ const projects = [
     ],
     image: ecommerce,
     source_code_link: 'https://github.com/vyhoangquocnguyen/ecommerce',
+  },
+  {
+    name: 'Zoom-Clone',
+    description:
+      'Explore Yoom, an application that allows users to create and join video conferences with multiple participants, similar to the popular video conferencing application Zoom.',
+    tags: [
+      {
+        name: 'nextjs',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'streamapi',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'tailwind',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: yoom,
+    source_code_link: 'https://github.com/vyhoangquocnguyen/zoom_clone',
   },
 ];
 
